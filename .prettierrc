@@ -1,0 +1,7 @@
+{
+    "printWidth": 10000, 
+    "essentially disabled": "comment",
+    "tabWidth": 4,
+    "useTabs": true,
+    "singleQuote": true
+}
